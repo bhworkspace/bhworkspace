@@ -1,120 +1,122 @@
 <h1 align="center">🌟 BootstrapHub Workspace</h1>
 
 <p align="center">
-  A unified workspace powering SaaS products, automation systems, AI-driven tools, and engineering solutions under the <b>BootstrapHub</b> ecosystem.
+  A development workspace for building SaaS products, delivering client projects, and creating automation tools under the <b>BootstrapHub</b> brand.
 </p>
+
+---
+
+## 💼 What We Do
+
+BootstrapHub operates as a **freelance engineering studio** and a **SaaS product builder**.
+
+We focus on:
+
+- Full-stack web development  
+- Shopify & eCommerce solutions  
+- AI-powered automation tools  
+- Custom dashboards & analytics systems  
+- End-to-end product engineering for startups and businesses  
+
+BootstrapHub is where client projects, internal tools, and SaaS products come to life.
+
+---
+
+## 🧩 Our Work & Deliverables
+
+### **Client Projects**
+
+#### 🟪 ALMA – E-Commerce Perfume Brand  
+Custom Shopify + full branding + product experience engineering.  
+A premium online storefront with smooth UX, optimised checkout, and performance-focused architecture.
+
+#### 🟦 NOVEL – E-Commerce for Baby & Personal Care Products  
+A scalable, responsive store for multiple product categories.  
+Includes CMS, product filters, optimized SEO, and performance improvements.
+
+---
+
+### **SaaS Products & Internal Tools**
+
+#### 🟧 Skroub – Social Listening & Keyword Intelligence  
+An AI-powered insights engine for tracking:  
+- Keywords  
+- Competitor signals  
+- Semantic trends  
+- Business opportunities  
+This is an internal SaaS tool built under the BootstrapHub ecosystem.
+
+#### 🟩 Shopify AI Marketing App (In Progress)  
+A Shopify App that provides:  
+- AI-generated product copy  
+- Marketing text improvements  
+- Conversion optimization suggestions  
+- Automated content posting (roadmap)
+
+Built to help Shopify stores boost sales effortlessly.
 
 ---
 
 ## 🚀 What We Build
 
-- **Micro SaaS applications**  
-- **Automation & agentic workflows**  
-- **AI/ML-powered systems**  
-- **Internal tools & developer utilities**  
-- **Client-focused engineering and freelancing solutions**
-
-BootstrapHub Workspace acts as the core development hub for everything we engineer and ship.
-
----
-
-## 🧩 BootstrapHub Ecosystem
-
-We focus on building:
-
-- AI-driven business automation  
-- Agent workflows using LangGraph & OpenAI  
-- Developer-first tools & SDKs  
-- Insights engines (Reddit monitoring, keyword tracking, trend analysis)  
-- Lightweight SaaS platforms for solopreneurs and teams  
-
-💡 Our philosophy is simple:  
-**Ship fast, stay lean, automate everything.**
+- E-commerce websites & storefronts  
+- Custom web apps (Next.js, TypeScript, Python)  
+- AI agents & automation workflows  
+- SaaS platforms designed for solopreneurs & small teams  
+- Product dashboards & admin panels  
+- Internal tools for business insights  
 
 ---
 
-## 📦 Featured Projects
-
-### 🔍 rSlashMiner  
-Reddit insights engine for idea discovery, sentiment analysis, subreddit monitoring & content evaluation.
-
-### 🖼️ AI Presentation Builder  
-Automated slide-generation platform powered by AI for content creators and businesses.
-
-### 🚀 BH SaaS Starter  
-A production-ready Next.js + TypeScript + Drizzle ORM + PostgreSQL starter kit for launching micro SaaS products.
-
-### 🤖 AI Agent Framework  
-Modular agentic architecture using LangGraph and OpenAI for autonomous workflows.
-
-### 🧱 BH UI Components  
-A collection of reusable UI blocks built with Tailwind CSS and ShadCN UI.
-
-### 🌀 BH 3D Showcase  
-Three.js utilities for interactive 3D product displays and hero sections.
-
-More projects coming soon as the ecosystem grows.
-
----
-
-## 🔧 Tech Stack & Tools
+## 🔧 Tech Stack
 
 ### **Frontend**
-- Next.js (TypeScript)  
+- Next.js  
+- React  
+- TypeScript  
 - Tailwind CSS  
 - ShadCN UI  
-- Three.js  
+- Three.js (for interactive 3D)  
 
 ### **Backend & Infra**
 - Python  
-- PostgreSQL + Drizzle ORM  
-- LangChain.js / LangGraph  
+- Node.js  
+- Drizzle + PostgreSQL  
+- LangGraph / LangChain  
 - Azure / Hetzner / DigitalOcean  
-- Server Actions  
-- Docker  
+- Shopify App development  
 
 ### **AI & Automation**
-- OpenAI (GPT-4o, GPT-5)  
-- Agentic workflow systems  
-- Prompt engineering  
-
----
-
-## 🛠 Current Focus Areas
-
-- Autonomous agent workflows for research, insights & content  
-- Reddit scraping & insights automation  
-- AI-generated presentations & infographics  
-- 3D model integration for e-commerce experiences  
-- Productivity-focused micro SaaS tools  
+- OpenAI  
+- LangGraph Workflows  
+- AI-driven content automation  
+- Social listening + analytics  
 
 ---
 
 ## 🎯 Mission
 
-To build a **high-performance engineering workspace** that supports:  
-- SaaS innovation  
-- AI automation  
-- Fast prototyping  
-- Freelancing & client delivery  
-- Full-stack engineering solutions  
+To build high-quality digital products and provide reliable engineering services for brands, founders, and businesses — while continuously expanding our SaaS ecosystem under **BootstrapHub**.
 
-BootstrapHub Workspace operates quietly, efficiently, and product-first.
+We stay lean, ship fast, and deliver practical solutions.
 
 ---
 
-## 📫 Connect
+## 📫 Contact
 
-For product inquiries, collaborations, or project discussions:  
+For collaborations, client work, or product inquiries:  
 **📧 hello@bootstraphub.in**
 
-(Brand-only communication. No personal identifiers.)
-
 ---
 
-## 🏗️ Under Active Development
+## 🏗️ Always Evolving
 
-This workspace evolves continuously as new tools, workflows, and SaaS products are added.  
-Stay tuned for updates and public releases.
+BootstrapHub Workspace continues to grow with:  
+- New SaaS tools  
+- New client deliverables  
+- New automation frameworks  
+- New internal products  
+
+Stay tuned for upcoming releases.
 
 ---
